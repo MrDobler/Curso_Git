@@ -1,0 +1,17 @@
+Comandos úteis:
+
+> git diff --staged
+	
+	Função: retorna as alterações, mesmo que já tenham sido adicionadas para o próximo commit.
+
+> git log -p -1
+
+	Função: retorna o log junto com o diff do mesmo. Pode ser limitado pelo "-1" ou quantas quiser.
+
+> gitk
+
+	Função: interface gráfica nativa do git para facilitar a análise de logs.
+
+> git commit --amend -m "msg"
+
+	Função: editar um commit.
