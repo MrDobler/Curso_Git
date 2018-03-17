@@ -1,6 +1,6 @@
 Comandos úteis:
 
-> git diff --staged
+> git diff --stagedgit 
 	
 	Função: retorna as alterações, mesmo que já tenham sido adicionadas para o próximo commit.
 
