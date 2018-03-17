@@ -15,3 +15,7 @@ Comandos úteis:
 > git commit --amend -m "msg"
 
 	Função: editar o último commit.
+
+> git rm <Nome do arquivo>
+
+	Função: remove um arquivo da staging area.
