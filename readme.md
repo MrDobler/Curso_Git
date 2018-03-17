@@ -1,4 +1,3 @@
-<h1>Leia este arquivo para iniciar o projeto</h1>
+<h1>Este projeto foi feito para aprendizado do Git</h1>
 
-<p>Uma linha adicionada</p>
-<p>Mais uma linha adicionada</p>
+<p>O arquivo "funcoes.php" é para testes apenas.</p>
