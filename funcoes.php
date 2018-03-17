@@ -7,3 +7,7 @@ function retornaTrue() {
 function retornaFalse() {
 	return false;
 }
+
+function meuNome() {
+	echo 'Arthur Dobler'
+}
