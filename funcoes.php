@@ -8,6 +8,6 @@ function retornaFalse() {
 	return false;
 }
 
-function meuNome() {
-	echo 'Arthur Dobler'
+function meuNome($nome) {
+	echo $nome;
 }
