@@ -19,3 +19,7 @@ Comandos úteis:
 > git rm <Nome do arquivo>
 
 	Função: remove um arquivo da staging area.
+
+> git tag -a <v0.0> Opcional[hash do commit] -m "msg"
+	
+	Função: cria uma tag de gerenciamento de versões.
