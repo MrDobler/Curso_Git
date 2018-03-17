@@ -14,4 +14,4 @@ Comandos úteis:
 
 > git commit --amend -m "msg"
 
-	Função: editar um commit.
+	Função: editar o último commit.
