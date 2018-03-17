@@ -23,3 +23,7 @@ Comandos úteis:
 > git tag -a <v0.0> Opcional[hash do commit] -m "msg"
 	
 	Função: cria uma tag de gerenciamento de versões.
+
+> git init --bare
+	
+	Função: inicializa um repositório que pode ser compartilhado como servidor git. É onde vai ficar o projeto.
